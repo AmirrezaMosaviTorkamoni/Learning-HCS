@@ -1,16 +1,3 @@
-# HCS
-This semester's Road Map:
-      - Learn Html
-      - Learn Css
-      - Learn Scss
-      - 2 Main Project
-      - Final Project 
-    
-www.free-css.com
-www.w3schools.com/html/
-htmlcolorcodes.com
-laman7.com
-chromewebstore.google.com
 <ul>
   <li>This semester's Road Map:<br></li>
   <ul>
@@ -33,8 +20,6 @@ chromewebstore.google.com
 <br>
 
 
-<li><a target="_blank" href="https://www.w3schools.com/tags/default.asp">All Tag in HTML</a></li><br>
-<li><a target="_blank" href="https://www.w3schools.com/html/html_blocks.asp">HTML Block and Inline Elements</a></li><br>
-</ul>
+
 
 
